@@ -1,5 +1,16 @@
-# lws-json-server-todos
+# assdi-json-server
 
-Example in memory expense tracker api with json-server by Learn with Sumit
+Please follow the below instructions to run server in your machine:
 
-Please follow the parent directory Readme
+1. Go to the server directory
+   ```sh
+   cd server
+   ```
+2. Install dependencies
+   ```sh
+   yarn
+   ```
+3. Start the server
+   ```sh
+   yarn start
+   ```
