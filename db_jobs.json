@@ -1,0 +1,28 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Google Internship Program",
+            "logo": "https://picsum.photos/200",
+            "companyName": "Google",
+            "position": "Intern Developer",
+            "description": "This is an internship opportunity from Google"
+        },
+        {
+            "id": 2,
+            "title": "Facebook Junior Development Program",
+            "logo": "https://picsum.photos/200",
+            "companyName": "Facebook",
+            "position": "Junior Developer",
+            "description": "This is a junior developer recruitment from Facebook"
+        },
+        {
+            "id": 3,
+            "title": "Microsoft Senior Development Program",
+            "logo": "https://picsum.photos/200",
+            "companyName": "Microsoft",
+            "position": "Senior Developer",
+            "description": "This is a junior developer recruitment from Microsoft"
+        }
+    ]
+}
